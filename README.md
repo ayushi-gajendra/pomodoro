@@ -1,6 +1,5 @@
 ---
 
-```markdown
 # ⏱️ Pomodoro Timer using Python & Tkinter
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
